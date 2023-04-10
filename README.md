@@ -5,6 +5,8 @@
 
 # model files
 
+https://drive.google.com/file/d/1q1NGyNnIjD74qg1OXfOP5sDCTlCZaOhg/view?usp=sharing
+
 yolov5 모델입니다. 직접 학습한 모델입니다. 라벨링 관련 데이터는 서버코드에 동봉되어 있습니다.
 
 # usage
